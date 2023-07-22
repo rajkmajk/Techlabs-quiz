@@ -1,0 +1,13 @@
+.logo-container {
+    position: relative;
+  }
+  
+  #logo {
+    opacity: 0;
+    transition: opacity 1s ease;
+  }
+
+  #logo:hover {
+    transform: translateY(1px);
+    filter: brightness(0.9) blur(2px);
+  }

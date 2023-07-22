@@ -1,0 +1,12 @@
+#timerContainer {
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+#timerContainer.running {
+    color: #00c200; 
+}
+
+#timerContainer.paused {
+    color: #f00; 
+}
