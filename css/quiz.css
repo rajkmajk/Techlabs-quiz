@@ -73,29 +73,3 @@ body {
     background: rgb(90, 31, 90);
     width: 0%;
 }
-
-/* @media screen and (max-width: 768px) {
-
-    .container {
-        margin-top: 6.5rem;
-        text-align: center;
-        font-size: 1.7rem;
-    }
-
-    .choice-container {
-        min-width: 40rem;
-        min-height: auto;
-        box-sizing: border-box;
-        margin: 1rem;
-        padding: 0.2rem;
-        
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    #question {
-        font-size: 2.5rem;
-    }
-} 
-*/
