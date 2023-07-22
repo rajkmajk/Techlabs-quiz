@@ -1,5 +1,5 @@
 # Techlabs-quizz
-##### This is a simple quizz app I set up for the *"Project Phase Info + Track Cross Contamination"* event for Techlabs Berlin.
+#### This is a simple quizz app I set up for the *"Project Phase Info + Track Cross Contamination"* event for Techlabs Berlin.
 
 
 ## Instructions:
